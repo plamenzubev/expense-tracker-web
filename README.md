@@ -2,11 +2,10 @@
 
 A responsive web dashboard for tracking personal expenses, built with React and TypeScript.
 
-## 🚀 Live Demo
-Coming soon
-
 ## 📸 Screenshots
-Coming soon
+![Home Screen](screenshots/home.png)
+![Add Expense](screenshots/modal.png)
+![Login](screenshots/login.png)
 
 ## 🛠️ Tech Stack
 - React
